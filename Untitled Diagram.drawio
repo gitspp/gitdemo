@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-12T01:38:10.394Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="hI53jo3DxwNDPqcy1J3e" version="14.6.11" type="github" pages="31">
+<mxfile host="app.diagrams.net" modified="2021-05-12T01:38:28.699Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="kM5TkMzQVgSpu0XUAN7U" version="14.6.11" type="github" pages="32">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="资讯附件">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2896,26 +2896,6 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="scU1SdwmuMJvkjo1_8cQ" name="Page-19">
-    <mxGraphModel dx="948" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="V7zdsnsGLRy6h2sIrU0a-0" />
-        <mxCell id="V7zdsnsGLRy6h2sIrU0a-1" parent="V7zdsnsGLRy6h2sIrU0a-0" />
-        <mxCell id="V7zdsnsGLRy6h2sIrU0a-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="V7zdsnsGLRy6h2sIrU0a-1">
-          <mxGeometry x="360" y="360" width="90" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="V7zdsnsGLRy6h2sIrU0a-3" value="" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="V7zdsnsGLRy6h2sIrU0a-1">
-          <mxGeometry x="365" y="200" width="80" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="V7zdsnsGLRy6h2sIrU0a-5" value="" style="endArrow=none;html=1;strokeColor=#000000;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="V7zdsnsGLRy6h2sIrU0a-1" source="V7zdsnsGLRy6h2sIrU0a-2" target="V7zdsnsGLRy6h2sIrU0a-3">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="420" as="sourcePoint" />
-            <mxPoint x="440" y="370" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
   <diagram id="8gZ_PP8RtgT4PmROLIPv" name="商品评价信息">
     <mxGraphModel dx="948" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3378,6 +3358,46 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="660" y="460" as="sourcePoint" />
             <mxPoint x="695" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="scU1SdwmuMJvkjo1_8cQ" name="Page-19">
+    <mxGraphModel dx="948" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="V7zdsnsGLRy6h2sIrU0a-0" />
+        <mxCell id="V7zdsnsGLRy6h2sIrU0a-1" parent="V7zdsnsGLRy6h2sIrU0a-0" />
+        <mxCell id="V7zdsnsGLRy6h2sIrU0a-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="V7zdsnsGLRy6h2sIrU0a-1">
+          <mxGeometry x="360" y="360" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="V7zdsnsGLRy6h2sIrU0a-3" value="" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="V7zdsnsGLRy6h2sIrU0a-1">
+          <mxGeometry x="365" y="200" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="V7zdsnsGLRy6h2sIrU0a-5" value="" style="endArrow=none;html=1;strokeColor=#000000;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="V7zdsnsGLRy6h2sIrU0a-1" source="V7zdsnsGLRy6h2sIrU0a-2" target="V7zdsnsGLRy6h2sIrU0a-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="420" as="sourcePoint" />
+            <mxPoint x="440" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Yb4QywJXmUo2tVeLjM2z" name="Page-32">
+    <mxGraphModel dx="948" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="ZHyz5_RU_u3cgK8XKfUT-0" />
+        <mxCell id="ZHyz5_RU_u3cgK8XKfUT-1" parent="ZHyz5_RU_u3cgK8XKfUT-0" />
+        <mxCell id="_KKqi-FEcojZE4Sz7V2l-0" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="ZHyz5_RU_u3cgK8XKfUT-1">
+          <mxGeometry x="360" y="360" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="_KKqi-FEcojZE4Sz7V2l-1" value="id" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="ZHyz5_RU_u3cgK8XKfUT-1">
+          <mxGeometry x="365" y="200" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_KKqi-FEcojZE4Sz7V2l-2" value="" style="endArrow=none;html=1;strokeColor=#000000;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="ZHyz5_RU_u3cgK8XKfUT-1" source="_KKqi-FEcojZE4Sz7V2l-0" target="_KKqi-FEcojZE4Sz7V2l-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="420" as="sourcePoint" />
+            <mxPoint x="440" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
