@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-12T09:38:23.835Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="FdW7Jgurdf5bD-VIa4wr" version="14.6.11" type="github" pages="30">
+<mxfile host="app.diagrams.net" modified="2021-05-12T09:38:48.376Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="bcUig5FtDxdwouGKCbsM" version="14.6.11" type="github" pages="30">
   <diagram id="eLwWlGz5fS1xL2zLuDvE" name="沙龙活动报名信息">
     <mxGraphModel dx="981" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3678,12 +3678,12 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="5MC7oe3qZr5a9_LE3JVz" name="培训分类信息">
+  <diagram id="5MC7oe3qZr5a9_LE3JVz" name="课程培训分类信息">
     <mxGraphModel dx="981" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="cpoM9QvFVX3jPSrbSBH--0" />
         <mxCell id="cpoM9QvFVX3jPSrbSBH--1" parent="cpoM9QvFVX3jPSrbSBH--0" />
-        <mxCell id="cpoM9QvFVX3jPSrbSBH--2" value="培训分类信息" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="cpoM9QvFVX3jPSrbSBH--1">
+        <mxCell id="cpoM9QvFVX3jPSrbSBH--2" value="课程培训分类信息" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="cpoM9QvFVX3jPSrbSBH--1">
           <mxGeometry x="360" y="360" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="cpoM9QvFVX3jPSrbSBH--3" value="id" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="cpoM9QvFVX3jPSrbSBH--1">
