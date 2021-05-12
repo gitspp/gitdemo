@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-12T09:14:25.783Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="CmrY6ZC1v4NOXJXKgHIB" version="14.6.11" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2021-05-12T09:15:56.405Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="Lm9CEgd_ka1cmLb_uHw0" version="14.6.11" type="github" pages="19">
   <diagram id="eLwWlGz5fS1xL2zLuDvE" name="沙龙活动报名信息">
     <mxGraphModel dx="981" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2505,6 +2505,44 @@
           <mxGeometry x="365" y="224.38" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UAzqAu_pZyng9IgoDNlF-12" value="" style="endArrow=none;html=1;strokeColor=#000000;" edge="1" parent="UAzqAu_pZyng9IgoDNlF-1" target="UAzqAu_pZyng9IgoDNlF-11" source="UAzqAu_pZyng9IgoDNlF-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="285.63" as="sourcePoint" />
+            <mxPoint x="310" y="314.38" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="GL36sNIMe_TP8e6EGh4k" name="部门角色用户信息">
+    <mxGraphModel dx="981" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="fvKQP_LcMBTNUtRXaLbQ-0" />
+        <mxCell id="fvKQP_LcMBTNUtRXaLbQ-1" parent="fvKQP_LcMBTNUtRXaLbQ-0" />
+        <mxCell id="bH2i2tADlTBvax7dm5G0-0" value="部门角色用户信息" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="fvKQP_LcMBTNUtRXaLbQ-1">
+          <mxGeometry x="360" y="360" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="bH2i2tADlTBvax7dm5G0-1" value="id" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="fvKQP_LcMBTNUtRXaLbQ-1">
+          <mxGeometry x="230" y="250" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bH2i2tADlTBvax7dm5G0-2" value="" style="endArrow=none;html=1;strokeColor=#000000;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="fvKQP_LcMBTNUtRXaLbQ-1" source="bH2i2tADlTBvax7dm5G0-0" target="bH2i2tADlTBvax7dm5G0-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="420" as="sourcePoint" />
+            <mxPoint x="440" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bH2i2tADlTBvax7dm5G0-5" value="用户id" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="fvKQP_LcMBTNUtRXaLbQ-1">
+          <mxGeometry x="510" y="240" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bH2i2tADlTBvax7dm5G0-6" value="" style="endArrow=none;html=1;strokeColor=#000000;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="fvKQP_LcMBTNUtRXaLbQ-1" source="bH2i2tADlTBvax7dm5G0-0" target="bH2i2tADlTBvax7dm5G0-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="425" y="380" as="sourcePoint" />
+            <mxPoint x="460" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bH2i2tADlTBvax7dm5G0-9" value="角色id" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="fvKQP_LcMBTNUtRXaLbQ-1">
+          <mxGeometry x="365" y="224.38" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bH2i2tADlTBvax7dm5G0-10" value="" style="endArrow=none;html=1;strokeColor=#000000;" edge="1" parent="fvKQP_LcMBTNUtRXaLbQ-1" source="bH2i2tADlTBvax7dm5G0-0" target="bH2i2tADlTBvax7dm5G0-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290" y="285.63" as="sourcePoint" />
             <mxPoint x="310" y="314.38" as="targetPoint" />
